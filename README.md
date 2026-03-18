@@ -80,7 +80,7 @@ backend-project
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/backend-project.git
+git clone https://github.com//backend-project.git
 ```
 
 Go to project folder
