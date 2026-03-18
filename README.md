@@ -80,7 +80,7 @@ backend-project
 Clone the repository
 
 ```bash
-git clone https://github.com//backend-project.git
+[git clone https://github.com//backend-project.git](https://github.com/ashokkumar2005/Smart-Task-Manager-Backend-API-Node.js-Express-MongoDB-.git)
 ```
 
 Go to project folder
